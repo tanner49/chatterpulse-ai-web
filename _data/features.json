@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Detailed Topical Analysis",
+    "description": "Get detailed topical analysis on podcasts specific to your needs",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "AI Generated Reports",
+    "description": "Tap into the power of GPT-4 to get a detailed report that compresses hundreds of hours of podcasts into a succinct report",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Track Sentiment and Trending across time",
+    "description": "Find out how peoples opinions, ideas, and attitudes have changed over time.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
