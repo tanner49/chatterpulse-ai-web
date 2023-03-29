@@ -10,6 +10,7 @@ weight: 3.604761904761905
 #### March 28, 2023
 
 ## Introduction
+
 Israel has been rocked by protests and strikes over the past week as the government pushed forward with a controversial plan to overhaul the country's judiciary. The plan, which would have given the government more control over the appointment of judges, was met with widespread opposition from critics who say it would undermine Israel's democracy. The protests intensified after Prime Minister Benjamin Netanyahu fired his defense minister, Yoav Gallant, who had criticized the judicial reform proposal. However, on Monday, after a long day of protests, Netanyahu announced a delay to the proposal until the next parliamentary session next month.
 
 ## The Sides
