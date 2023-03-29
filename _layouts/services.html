@@ -23,6 +23,9 @@ bodyClass: "page-services"
     {% for service in site.services %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
+        <div class="service-image float-left mr-3">
+          <img src="{{ 'images/' | append: service.image | relative_url }}" alt="{{ service.title }}" style="width: 100px; height: 100px; object-fit: cover;">
+        </div>
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
@@ -34,3 +37,4 @@ bodyClass: "page-services"
     {% endfor %}
   </div>
 </div>
+
