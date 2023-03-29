@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Chatter Pulse AI'
+title: 'ChatterPulse AI'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/illustrations/chatter_logo.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/illustrations/chatter_logo.svg"
   desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_width: "32px"
 
 home: 
   limit_services: 6
