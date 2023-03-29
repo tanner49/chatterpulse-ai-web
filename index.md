@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# ChatterPulse AI - A new way to know your customers.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Understanding user sentiment is hard. ChatterPulse take a new approach: using AI to listen to millions of hours of podcasts, and extracting the trends and concepts you need to know to stay ahead of the competition.
