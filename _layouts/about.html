@@ -1,0 +1,65 @@
+---
+layout: default
+bodyClass: "page-about"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content">{{content}}</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class = "strip">
+  <h2 style = "text-align: center; padding-top: 30px;">Contact Us</h2>
+  <form name="contact" method="POST" data-netlify="true" style="font-family: Arial, sans-serif; max-width: 400px; margin: 0 auto;">
+    <p style="margin-bottom: 10px;">
+      <label style="display: block; margin-bottom: 5px;">Your Name:</label>
+      <input type="text" name="name" style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"/>
+    </p>
+    <p style="margin-bottom: 10px;">
+      <label style="display: block; margin-bottom: 5px;">Your Email:</label>
+      <input type="email" name="email" style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"/>
+    </p>
+    <p style="margin-bottom: 10px;">
+      <label style="display: block; margin-bottom: 5px;">Type of Inquiry:</label>
+      <select name="type[]" multiple style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="sales / business">Sales/Business</option>
+        <option value="press">Press</option>
+      </select>
+    </p>
+    <p style="margin-bottom: 10px;">
+      <label style="display: block; margin-bottom: 5px;">Message:</label>
+      <textarea name="message" style="width: 100%; min-height: 100px; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+    </p>
+    <p style="text-align: center;">
+      <button type="submit" style="background-color: black; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;">Send</button>
+    </p>
+</form>
+</div>
