@@ -1,6 +1,6 @@
 main:
   - name: "ChatterNews"
-    url: "/services/"
+    url: "/news/"
     weight: 2
   - name: "Team"
     url: "/team/"

@@ -1,7 +1,7 @@
 ---
 title: ChatterNews
 layout: services
-description: Services
+description: Top trending news in podcasts.
 intro_image: "images/illustrations/Faded_trending.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
