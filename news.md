@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Trending in Podcasts Today
+# ChatterNews
 
 AI generated articles for today's trending topics across thousands of podcasts. ChatterPulse's services allow you to dig deep into real-time consumer insights.
