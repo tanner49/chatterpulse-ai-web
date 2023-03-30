@@ -14,7 +14,7 @@ Each of these data sources has severe and growing limitations. As many markets c
 ## Why Podcasts?
 
  Podcasts are a unique form of media, consumed by 32% of Americans (and more and more every day). Podcasts offer several advantages over traditional market research:
-- Unlike social media, the conversations on podcasts are nuanced, long form, and diverse. -
+- Unlike social media, the conversations on podcasts are nuanced, long form, and diverse.
 - The openly available popularity metrics for podcasts allow us to see the relative weight and influence of different opinions around topics, circumventing the sampling bias of survey market research. 
 - Podcasts are, unlike sales and economic data, forward-facing, not dated. 
 - Podcasts are run by thought leaders who set trends around broad and niche topics in markets and society. 
