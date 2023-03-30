@@ -22,6 +22,6 @@ Each of these data sources has severe and growing limitations. As many markets c
 If an organization had the ability to consume and comprehend all podcasts related to their product or market, they would be at a substantial competitive advantage. Chatter Pulse AI enables exactly this! 
 
 ## Chatter Pulse AI
- Using a suite of cutting-edge machine learning, nlp, and generative-text AI, we perform analysis on a continuous stream of the top podcasts in the world in real time.
+Using a suite of cutting-edge machine learning, nlp, and generative-text AI, we perform analysis on a continuous stream of the top podcasts in the world in real time.
 
-Our custom reports take advantage of over two million hours of podcasts to find exactly what you need to better understand what your customer, consituants, thought leaders, and experts in your area are thinking.
+Our custom reports take advantage of over two million hours of podcasts to find exactly what you need to better understand what your customer, consituants, thought leaders, and experts in your area are thinking. Each of our reports is custom tailored to your needs. We offer both one-time engagement and long-term hosted reporting services.
