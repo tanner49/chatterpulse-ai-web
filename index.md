@@ -5,7 +5,7 @@ description: Chatter Pulse AI - A new way to do market research.
 intro_image: "images/illustrations/Clusters_Screenshot3.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # ChatterPulse AI - A new way to know your customers.
