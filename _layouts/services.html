@@ -36,9 +36,10 @@ bodyClass: "page-services"
             </div>
           </div>
         </div>
+        <hr>
         {% assign first_service_shown = true %}
       {% else %}
-        <div class="col-12 col-md-6 mb-3">
+        <div class="col-12 col-md-6 mb-3", style="padding-top: 20px;">
           <div class="service service-summary d-flex">
             <div class="service-image mr-3">
               <img src="{{ 'images/' | append: service.image | relative_url }}" alt="{{ service.title }}" style="width: 100px; height: 100px; object-fit: cover;">
