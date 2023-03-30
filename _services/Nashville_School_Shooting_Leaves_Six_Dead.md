@@ -1,29 +1,33 @@
 ---
-date: March 29, 2023
-image: e0c335b6-9d6f-4906-8c60-66cdfeb6d916.png
-subtitle: The City Mourns the Loss of Three Children and Three Adults
+date: March 30, 2023
+image: 1c5c8328-fa6b-44ac-887f-b3e071304521.png
+subtitle: Police Release Details on Shooter and Gun Purchases
 title: Nashville School Shooting Leaves Six Dead
-trending_metric: 18.210119047619045
-weight: 0.05491452293008205
+trending_metric: 23.80654761904762
+weight: 0.04200525065633204
 ---
 # Nashville School Shooting Leaves Six Dead
-### The City Mourns the Loss of Three Children and Three Adults
-#### March 29, 2023
+### Police Release Details on Shooter and Gun Purchases
+#### March 30, 2023
 
 ## Introduction
-Yesterday, a former student opened fire at the Covenant School in Nashville, killing three 9-year-olds and three adults. The shooter, who was under care for an emotional disorder, purchased seven guns legally leading up to the attack. The incident has sparked a national conversation about gun control and school safety. 
+On Monday, a shooter entered the Covenant School in Nashville, Tennessee, killing three children and three adults. The shooter, who was later killed by police, had purchased seven guns legally and was under care for an emotional disorder. The incident has reignited the debate on gun control and school safety measures.
+
+Police have released body-camera footage from the two officers who fatally shot the attacker. The footage shows the officers responding quickly and heroically to the situation, taking down the shooter in just six minutes.
 
 ## The Sides
-Many are calling for stricter gun control measures, while others argue that the issue is not with guns but with mental health. Some are also pointing to the heroism of the police officers who quickly took down the shooter. 
+Gun control advocates are calling for stricter laws to prevent individuals with emotional disorders from purchasing firearms. They argue that the shooter's history of mental illness should have prevented him from obtaining the weapons used in the attack. Others, however, argue that the focus should be on improving school safety measures, such as increasing the number of armed guards and implementing metal detectors.
+
+Some are also calling for a hate crime investigation, as the shooter's parents claim that he had a vendetta against Christians. However, others argue that the motive is still unclear and that jumping to conclusions could be harmful.
 
 ## What People Are Saying
-- "It happened again. Yet another school shooting in America. Over and over and over again. They rip schools and communities apart." - The Breakdown with Shaun King
+- "The 1994 Federal Assault Weapons ban had virtually no impact on murders, but President Biden and his Democrat mouthpieces know that the vast majority of murders are not committed by what they call assault weapons." - Mark Levin Podcast
+- "The shooter in Nashville purchased 7 guns, including multiple assault rifles, from 5 different stores across Tennessee, and loaded up on tons of ammunition." - The Breakdown with Shaun King
+- "The GOP had a disappointing and predictable response to the school shooting in Nashville." - Deadline: White House
 - "The motive of the Nashville shooter is not isolated to this one specific incident." - The Liz Wheeler Show
-- "The steps that must be taken to protect institutions at risk of future assault." - Commentary Magazine Podcast
-- "What’s behind the uptick of mass shootings in the last 50 years? Liz breaks down what even conservatives are missing about the cause of these tragedies." - The Liz Wheeler Show
-- "We also discuss the horrific shooting at Covenant School in Nashville, Tennessee." - The MeidasTouch Podcast
+- "After a devastating day in Tennessee, Charlie unpacks the horrifying facts behind the shooting at the Covenant School in Nashville." - The Charlie Kirk Show
 
-The tragic shooting has once again brought the issue of gun violence to the forefront of national conversation. As the city of Nashville mourns the loss of six lives, the debate over gun control and school safety continues.
+It is clear that the Nashville school shooting has sparked a heated debate on gun control and school safety measures. As more details emerge, it is important to consider all sides of the issue and work towards a solution that will prevent future tragedies.
 
  --- 
 
