@@ -5,6 +5,13 @@ bodyClass: "page-service"
 
 {% assign service = site.services | where: 'url', page.url | first %}
 
+<!-- Add Open Graph meta tags -->
+{% assign og_image = site.url | append: 'images/' | append: service.image %}
+<meta property="og:title" content="{{ service.title }}">
+<meta property="og:description" content="{{ service.subtitle }}">
+<meta property="og:image" content="{{ og_image }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-center">
     <div class="col-12 col-md-8">
