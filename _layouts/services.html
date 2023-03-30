@@ -20,22 +20,38 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
+    {% assign first_service_shown = false %}
     {% for service in site.services %}
-    <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary d-flex">
-        <div class="service-image mr-3">
-          <img src="{{ 'images/' | append: service.image | relative_url }}" alt="{{ service.title }}" style="width: 100px; height: 100px; object-fit: cover;">
+      {% if first_service_shown == false %}
+        <div class="col-12 mb-3">
+          <div class="service service-summary d-flex">
+            <div class="service-image mr-3">
+              <img src="{{ 'images/' | append: service.image | relative_url }}" alt="{{ service.title }}" style="width: 200px; height: 200px; object-fit: cover;">
+            </div>
+            <div class="service-content">
+              <h2 class="service-title">
+                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              </h2>
+              <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
+            </div>
+          </div>
         </div>
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-          </h2>
-          <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
+        {% assign first_service_shown = true %}
+      {% else %}
+        <div class="col-12 col-md-6 mb-3">
+          <div class="service service-summary d-flex">
+            <div class="service-image mr-3">
+              <img src="{{ 'images/' | append: service.image | relative_url }}" alt="{{ service.title }}" style="width: 100px; height: 100px; object-fit: cover;">
+            </div>
+            <div class="service-content">
+              <h2 class="service-title">
+                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              </h2>
+              <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
-
-
