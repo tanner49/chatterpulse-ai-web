@@ -1,7 +1,7 @@
 [
   {
     "title": "Detailed Topical Analysis",
-    "description": "Get detailed topical analysis on podcasts specific to your needs",
+    "description": "Get detailed topical analysis on podcasts specific to your needs.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "AI Generated Reports",
-    "description": "Tap into the power of GPT-4 to get a detailed report that compresses hundreds of hours of podcasts into a succinct report",
+    "description": "Tap into the power of GPT-4 to compresses hundreds of hours of podcasts into a succinct report.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
