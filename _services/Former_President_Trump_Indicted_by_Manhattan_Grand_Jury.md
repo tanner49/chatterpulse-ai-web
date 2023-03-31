@@ -4,7 +4,7 @@ image: aa6851a5-fc1f-483c-8010-061a49b0e3f3.png
 subtitle: Trump becomes first former president to face criminal charges
 title: Former President Trump Indicted by Manhattan Grand Jury
 trending_metric: 9.267006802721088
-weight: 0.10790970820334006
+weight: 0.00790970820334006
 ---
 # Former President Trump Indicted by Manhattan Grand Jury
 ### Trump becomes first former president to face criminal charges
