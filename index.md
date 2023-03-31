@@ -1,7 +1,7 @@
 ---
 title: Chatter Pulse AI
 layout: home
-description: Chatter Pulse AI - A new way to do market research.
+description: Chatter Pulse AI - A new way to understanding sentiment in politics, sports, lifestyle, fashion, and more.
 intro_image: "images/illustrations/Clusters_Screenshot3.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
