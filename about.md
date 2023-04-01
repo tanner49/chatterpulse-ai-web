@@ -7,10 +7,12 @@ bodyClass: page-about
 
 At ChatterPulse AI, we recognize that in today's fast-paced market landscape, businesses need smarter customer listening and customer intelligence solutions to stay ahead. Social media platforms often amplify the loudest voices, which may not accurately represent your customer base, and their content is influenced by algorithms that can introduce bias. It's time for a fresh approach to understanding your customers.
 
-## Introducing ChatterPulse AI - Smarter Customer Listening
-![Topic Analysis](/images/illustrations/Clusters_Screenshot4.png)
+## Smarter Customer Listening
 
 ChatterPulse AI revolutionizes the way businesses listen to their customers by tapping into the rich and diverse world of podcasts. By analyzing millions of hours of podcast content, we capture the nuanced, in-depth conversations that are often missing from social media platforms. This innovative approach allows us to provide businesses with more accurate and insightful customer intelligence, helping them make data-driven decisions that cater to their customers' needs and preferences.
+
+![Topic Analysis](/images/illustrations/Clusters_Screenshot4.png)
+
 ## Unlock the Power of Podcasts
 
 Podcasts represent a unique and underutilized resource in the world of customer intelligence, with 32% of Americans (and a growing global audience) tuning in to listen. Leveraging podcasts as a source of customer insights offers several distinct advantages:
