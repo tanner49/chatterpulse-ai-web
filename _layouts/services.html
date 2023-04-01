@@ -32,6 +32,7 @@ bodyClass: "page-services"
               <h1 class="service-title">
                 <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
               </h1>
+              <h4>{{service.date | markdownify | strip_html}}</h4>
               <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
             </div>
           </div>
@@ -47,6 +48,7 @@ bodyClass: "page-services"
               <h2 class="service-title">
                 <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
               </h2>
+              <h4>{{service.date | markdownify | strip_html}}</h4>
               <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
             </div>
           </div>
