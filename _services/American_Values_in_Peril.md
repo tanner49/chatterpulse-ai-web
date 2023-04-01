@@ -5,7 +5,7 @@ subtitle: A new poll shows a decline in patriotism, religion, and other essentia
   values
 title: American Values in Peril
 trending_metric: -1.5
-weight: -0.6666666666666666
+weight: 5
 ---
 # American Values in Peril
 ### A new poll shows a decline in patriotism, religion, and other essential values

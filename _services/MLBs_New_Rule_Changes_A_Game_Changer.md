@@ -3,8 +3,8 @@ date: April 01, 2023
 image: ff1a1f8f-1cc9-454c-9d94-04bfa2735c76.png
 subtitle: The impact of MLB's new rule changes on the game and its viewers
 title: 'MLB''s New Rule Changes: A Game Changer?'
-trending_metric: .nan
-weight: .nan
+trending_metric: 1
+weight: 4
 ---
 # MLB's New Rule Changes: A Game Changer?
 ### The impact of MLB's new rule changes on the game and its viewers

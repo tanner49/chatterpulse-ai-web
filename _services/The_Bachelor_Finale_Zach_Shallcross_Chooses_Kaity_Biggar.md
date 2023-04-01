@@ -4,7 +4,7 @@ image: 0b1e8e8b-7bca-4205-8c60-82d9e6dd4597.png
 subtitle: Fans and contestants react to the dramatic finale
 title: 'The Bachelor Finale: Zach Shallcross Chooses Kaity Biggar'
 trending_metric: .nan
-weight: .nan
+weight: 3
 ---
 # The Bachelor Finale: Zach Shallcross Chooses Kaity Biggar
 ### Fans and contestants react to the dramatic finale

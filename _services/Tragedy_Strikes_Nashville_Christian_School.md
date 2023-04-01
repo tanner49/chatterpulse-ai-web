@@ -4,7 +4,7 @@ image: 0c112fac-e3d9-4cf7-8b39-94832fb026fd.png
 subtitle: A shooting at Covenant School leaves six dead and sparks debate on gun control
 title: Tragedy Strikes Nashville Christian School
 trending_metric: .nan
-weight: .nan
+weight: 0.9
 ---
 # Tragedy Strikes Nashville Christian School
 ### A shooting at Covenant School leaves six dead and sparks debate on gun control

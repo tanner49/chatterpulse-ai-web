@@ -3,8 +3,8 @@ date: April 01, 2023
 image: 2a611fb2-1c15-4b1a-b845-eeb22b525b3e.png
 subtitle: The Ravens and Lamar Jackson are at a crossroads
 title: Lamar Jackson Requests Trade from Ravens
-trending_metric: .nan
-weight: .nan
+trending_metric: .3333
+weight: 3
 ---
 # Lamar Jackson Requests Trade from Ravens
 ### The Ravens and Lamar Jackson are at a crossroads

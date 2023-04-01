@@ -5,7 +5,7 @@ subtitle: The proposed ban on TikTok sparks a heated debate among politicians an
   influencers
 title: The TikTok Ban Debate
 trending_metric: -0.5
-weight: -2.0
+weight: 2.0
 ---
 # The TikTok Ban Debate
 ### The proposed ban on TikTok sparks a heated debate among politicians and influencers

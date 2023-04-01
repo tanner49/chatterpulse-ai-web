@@ -4,7 +4,7 @@ image: b8b745d0-4351-4d2d-ab5f-c56c23d19d87.png
 subtitle: Calls for Gun Reform Following the Nashville School Shooting
 title: The Nashville Shooting and the Debate on Gun Control
 trending_metric: -0.19999999999999996
-weight: -5.000000000000001
+weight: 5.000000000000001
 ---
 # The Nashville Shooting and the Debate on Gun Control
 ### Calls for Gun Reform Following the Nashville School Shooting

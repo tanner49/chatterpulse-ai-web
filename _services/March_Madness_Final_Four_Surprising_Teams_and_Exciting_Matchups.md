@@ -3,8 +3,8 @@ date: April 01, 2023
 image: 65e2a4a6-dc64-4a6f-a662-f238529b5fe7.png
 subtitle: A look at the unexpected Final Four teams in the NCAA tournament
 title: 'March Madness Final Four: Surprising Teams and Exciting Matchups'
-trending_metric: .nan
-weight: .nan
+trending_metric: 11
+weight: 0.3
 ---
 # March Madness Final Four: Surprising Teams and Exciting Matchups
 ### A look at the unexpected Final Four teams in the NCAA tournament

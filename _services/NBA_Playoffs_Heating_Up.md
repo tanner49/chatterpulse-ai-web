@@ -3,8 +3,8 @@ date: April 01, 2023
 image: efec52d1-3501-4586-bda9-b10aa7926a53.png
 subtitle: Teams jostle for playoff positions
 title: NBA Playoffs Heating Up
-trending_metric: .nan
-weight: .nan
+trending_metric: 5
+weight: .2
 ---
 # NBA Playoffs Heating Up
 ### Teams jostle for playoff positions

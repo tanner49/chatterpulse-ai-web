@@ -4,7 +4,7 @@ image: 5ec77dbd-34ce-49e2-abaf-0c9c0b553c87.png
 subtitle: Which players are expected to be drafted and what are the experts saying?
 title: 'NFL Draft 2023: Predictions and Analysis'
 trending_metric: .nan
-weight: .nan
+weight: .4
 ---
 # NFL Draft 2023: Predictions and Analysis
 ### Which players are expected to be drafted and what are the experts saying?
