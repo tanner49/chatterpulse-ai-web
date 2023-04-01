@@ -1,29 +1,29 @@
 ---
-date: March 31, 2023
-image: df435644-492e-4676-bc5d-bc8739d8117d.png
-subtitle: Former MVP QB stirs up controversy with trade request
+date: April 01, 2023
+image: 2a611fb2-1c15-4b1a-b845-eeb22b525b3e.png
+subtitle: The Ravens and Lamar Jackson are at a crossroads
 title: Lamar Jackson Requests Trade from Ravens
-trending_metric: 3.7547619047619047
-weight: 0.2663284717818643
+trending_metric: .nan
+weight: .nan
 ---
 # Lamar Jackson Requests Trade from Ravens
-### Former MVP QB stirs up controversy with trade request
-#### March 31, 2023
+### The Ravens and Lamar Jackson are at a crossroads
+#### April 01, 2023
 
 ## Introduction
-Former MVP quarterback Lamar Jackson has requested a trade from the Baltimore Ravens, according to multiple sources. Jackson, who was franchise-tagged by the Ravens, has been in contract negotiations with the team for some time, but talks have reportedly stalled. The news of Jackson's trade request has sent shockwaves through the NFL, with many wondering where the star quarterback will end up next.
+Former MVP quarterback Lamar Jackson has requested a trade from the Baltimore Ravens, according to a tweet he posted on March 2nd. The Ravens have franchise-tagged Jackson, but the two sides have been unable to come to a long-term agreement. The situation has caused a stir in the NFL, with many wondering where Jackson will end up and what his value is. Some believe that Jackson is worth a big contract, while others think he is overvalued. 
 
 ## The Sides
-Some analysts believe that Jackson's trade request is a strategic move to put pressure on the Ravens to offer him a more lucrative contract. Others speculate that Jackson is genuinely unhappy with the team and is looking for a fresh start elsewhere. There are also those who believe that Jackson's recent Twitter outburst, in which he accused the Ravens of not valuing him, has damaged his reputation and hurt his chances of finding a new team.
+Some analysts believe that Jackson is worth a big contract and that the Ravens should do everything they can to keep him. Others think that Jackson is overvalued and that the Ravens should let him go. Some teams have reportedly expressed interest in trading for Jackson, while others have stayed away. 
 
 ## What People Are Saying
-- "Lamar Jackson stands at a critical career crossroads. His desire to land a Deshaun Watson-type contract and the media-driven drumbeat of victimization have distracted him from the narrow path of football immortality he claims to prioritize." - Fearless with Jason Whitlock
-- "As it relates to his contract negotiation, God is not directing Lamar’s steps. Deshaun Watson is." - Fearless with Jason Whitlock
+- "Lamar Jackson has demanded a trade from the Baltimore Ravens, painting himself as a victim after claiming that the team isn’t willing to meet his value." - Fearless with Jason Whitlock
 - "The Lamar Jackson negotiations have become a joke and Brady has inside knowledge about his 'rep.'" - 2 Pros and a Cup of Joe
+- "Former New England Patriot publicly advised Baltimore quarterback Lamar Jackson to not join the Patriots. Colin tells us if that former Patriot is wrong or right." - The Herd with Colin Cowherd
+- "Lamar Jackson has a lot in common with Aaron Rodgers and Russell Wilson." - The Herd with Colin Cowherd
 - "Is it time for Lamar Jackson to finally hire an agent?" - Skip and Shannon: Undisputed
-- "Ozzie Newsome's comments on Lamar Jackson's contract situation" - The Right Time with Bomani Jones
 
-It remains to be seen where Jackson will end up, but one thing is for sure: the NFL world will be watching closely as this story unfolds.
+The situation with Lamar Jackson and the Baltimore Ravens is far from over. As the NFL offseason continues, it remains to be seen where Jackson will end up and what his value is.
 
  --- 
 

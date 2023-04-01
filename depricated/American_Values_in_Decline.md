@@ -1,29 +1,32 @@
 ---
-date: March 30, 2023
-image: b6d1f79d-271c-4bef-90f2-5d419517865c.png
-subtitle: A new poll reveals a decline in patriotism, religion, and hard work in America
+date: March 31, 2023
+image: f3220ace-dd19-4cf5-9ce3-48abcc388e89.png
+subtitle: A recent poll shows a decline in patriotism, religion, and hard work in
+  America
 title: American Values in Decline
-trending_metric: 2.1041666666666665
-weight: 0.4752475247524753
+trending_metric: 3.0153061224489797
+weight: 0.3316412859560068
 ---
 # American Values in Decline
-### A new poll reveals a decline in patriotism, religion, and hard work in America
-#### March 30, 2023
+### A recent poll shows a decline in patriotism, religion, and hard work in America
+#### March 31, 2023
 
 ## Introduction
-A recent poll conducted by the Wall Street Journal and NORC has found that several values that once defined America, including patriotism, religion, and hard work, are receding in importance to Americans. The decline in these values has been a topic of discussion across various political podcasts, with some attributing it to the rise of authoritarianism and the failure of politicians to address the issues that matter to their constituents.
+A recent poll conducted by the Wall Street Journal and NORC has found that several values that once defined America, including patriotism, religion, and hard work, are receding in importance to Americans. The poll has sparked a debate about the state of American values and what it means for the future of the country. Some argue that this decline is a result of the political polarization and cultural shifts that have taken place in recent years, while others blame it on the failure of political leaders to address the concerns of the American people.
 
 ## The Sides
-Conservative podcasts like The Rubin Report and Mark Levin Podcast have criticized the Democratic solution to policies that don't work, which they claim is always more government, centralization, redistribution, and interference with liberty. They also argue that there is a Marxist movement customized towards democracies and the Republic, and that America is currently in a soft tyranny. On the other hand, liberal podcasts like The Weeds and Today, Explained have discussed the government's plan for overhaul and what it means for those whose lives are on the line. They argue that the decline in values is a result of systemic issues that need to be addressed through policy changes.
+On one side of the debate are those who see the decline in American values as a symptom of a larger problem. They argue that the political polarization and cultural shifts that have taken place in recent years have eroded the sense of national identity and unity that once defined America. They point to the rise of authoritarianism in Europe and the importance of protecting democratic institutions and values as evidence that the decline in American values is a serious threat to the country's future.
+
+On the other side of the debate are those who believe that the decline in American values is a result of the failure of political leaders to address the concerns of the American people. They argue that the political establishment has become disconnected from the needs and desires of the American people, and that this has led to a sense of disillusionment and apathy among the population. They point to the rise of populist movements around the world as evidence that people are looking for leaders who will listen to them and address their concerns.
 
 ## What People Are Saying
-- "American values are in SEVERE decline." - Human Events Daily with Jack Posobiec
+- "A new survey reveals that all of the fundamental values that once defined our civilization -- and every other civilization -- are dying away in this country. But this is not an accident. It has been the Left's agenda all along." - The Matt Walsh Show
+- "Americans are forgetting about what's really important." - Bill O'Reilly's No Spin News and Analysis
 - "The most fundamental American values - patriotism, religious faith, and even the desire to have children - are in steep decline." - The Charlie Kirk Show
 - "Our own voters have lost a sense of values and patriotism, and it is reflected in the vacuous nature of the Republican politicians they support." - Conservative Review with Daniel Horowitz
-- "The decline in patriotism is a result of the government's failure to address the issues that matter to Americans." - The Weeds
-- "The decline in values is a result of the rise of authoritarianism in America." - Bannon's War Room
+- "The enemy is getting stronger and stronger, and these pseudo-Conservatives have no official position for stopping it." - Mark Levin Podcast
 
-It is clear that the decline in American values is a topic of concern across the political spectrum. While there may be disagreement on the root causes of this decline, it is important for politicians to address these issues and work towards restoring the values that once defined America.
+The decline in American values is a complex issue with no easy solutions. However, it is clear that the country is at a crossroads and must decide what kind of future it wants to build. Will it be a future based on unity, shared values, and a sense of national identity, or will it be a future of division, apathy, and disillusionment? The answer to this question will determine the fate of the country for generations to come.
 
  --- 
 

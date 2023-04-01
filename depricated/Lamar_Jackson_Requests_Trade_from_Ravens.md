@@ -1,29 +1,29 @@
 ---
-date: March 29, 2023
-image: 776d10af-46c4-4536-9968-a7b42ec9a272.png
-subtitle: Former MVP QB wants out of Baltimore
+date: March 31, 2023
+image: df435644-492e-4676-bc5d-bc8739d8117d.png
+subtitle: Former MVP QB stirs up controversy with trade request
 title: Lamar Jackson Requests Trade from Ravens
-trending_metric: 3.0555555555555554
-weight: 0.32727272727272727
+trending_metric: 3.7547619047619047
+weight: 0.2663284717818643
 ---
 # Lamar Jackson Requests Trade from Ravens
-### Former MVP QB wants out of Baltimore
-#### March 29, 2023
+### Former MVP QB stirs up controversy with trade request
+#### March 31, 2023
 
 ## Introduction
-Former MVP quarterback Lamar Jackson has requested a trade from the Baltimore Ravens. Jackson, who was franchise-tagged by the Ravens earlier this month, has been in negotiations for a long-term deal with the team. However, talks have reportedly hit a stalemate, leading to Jackson's request for a trade. The news has sent shockwaves through the NFL, with many speculating on where Jackson could end up.
+Former MVP quarterback Lamar Jackson has requested a trade from the Baltimore Ravens, according to multiple sources. Jackson, who was franchise-tagged by the Ravens, has been in contract negotiations with the team for some time, but talks have reportedly stalled. The news of Jackson's trade request has sent shockwaves through the NFL, with many wondering where the star quarterback will end up next.
 
-## The Buzz
-The buzz around the NFL is that the Ravens and Jackson's camp are far apart on the value of a long-term deal. Some reports suggest that Jackson is seeking a contract that would make him the highest-paid quarterback in the league, while the Ravens are hesitant to commit to such a deal. The Patriots have been mentioned as a potential landing spot for Jackson, with rumors swirling that they are interested in trading for him. However, other teams, such as the Colts and Panthers, have also been mentioned as potential suitors.
+## The Sides
+Some analysts believe that Jackson's trade request is a strategic move to put pressure on the Ravens to offer him a more lucrative contract. Others speculate that Jackson is genuinely unhappy with the team and is looking for a fresh start elsewhere. There are also those who believe that Jackson's recent Twitter outburst, in which he accused the Ravens of not valuing him, has damaged his reputation and hurt his chances of finding a new team.
 
 ## What People Are Saying
-- "Lamar Jackson has made a statement that he requested a trade from Baltimore earlier this month." - The Joe Budden Podcast
-- "Rumors of the Patriots being interested in trading for Lamar." - The Bill Simmons Podcast
-- "The Lamar Jackson negotiations have become a joke and Brady has inside knowledge about his 'rep'." - 2 Pros and a Cup of Joe
-- "Why the Patriots should trade for Lamar Jackson." - The Herd with Colin Cowherd
-- "Is it time for Lamar Jackson to officially hire an agent so he can get a long-term deal?" - Skip and Shannon: Undisputed
+- "Lamar Jackson stands at a critical career crossroads. His desire to land a Deshaun Watson-type contract and the media-driven drumbeat of victimization have distracted him from the narrow path of football immortality he claims to prioritize." - Fearless with Jason Whitlock
+- "As it relates to his contract negotiation, God is not directing Lamar’s steps. Deshaun Watson is." - Fearless with Jason Whitlock
+- "The Lamar Jackson negotiations have become a joke and Brady has inside knowledge about his 'rep.'" - 2 Pros and a Cup of Joe
+- "Is it time for Lamar Jackson to finally hire an agent?" - Skip and Shannon: Undisputed
+- "Ozzie Newsome's comments on Lamar Jackson's contract situation" - The Right Time with Bomani Jones
 
-It remains to be seen where Jackson will end up, but one thing is clear: the former MVP wants out of Baltimore. The Ravens will have to decide whether to trade him or try to work out a long-term deal before the start of the season. Either way, the NFL world will be watching closely to see how this situation unfolds.
+It remains to be seen where Jackson will end up, but one thing is for sure: the NFL world will be watching closely as this story unfolds.
 
  --- 
 
