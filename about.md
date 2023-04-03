@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-At ChatterPulse AI, we recognize that in today's fast-paced market landscape, businesses need smarter customer listening and customer intelligence solutions to stay ahead. Social media platforms often amplify the loudest voices, which may not accurately represent your customer base, and their content is influenced by algorithms that can introduce bias. It's time for a fresh approach to understanding your customers.
+At ChatterPulse AI, we recognize that in today's fast-paced market landscape, businesses need smarter customer listening and customer intelligence solutions to stay ahead. Social media algoirthms often amplify the loudest voices, which may not accurately represent your customer base. It's time for a fresh approach to understanding your customers.
 
 ## Smarter Customer Listening
 
