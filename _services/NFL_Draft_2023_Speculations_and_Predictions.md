@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 59b48884-1803-46bb-b744-9e9b0081ffc6.png
+image: images/59b48884-1803-46bb-b744-9e9b0081ffc6.png
 subtitle: Experts predict four quarterbacks to be drafted in the first four picks
 title: 'NFL Draft 2023: Speculations and Predictions'
 trending_metric: 1.6819727891156464
