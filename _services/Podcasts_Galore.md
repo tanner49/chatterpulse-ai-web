@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: c4299c5b-8876-46c1-bd70-ddbc73b20498.png
+image: images/c4299c5b-8876-46c1-bd70-ddbc73b20498.png
 subtitle: A round-up of the latest episodes from various podcasts
 title: Podcasts Galore
 trending_metric: 1.7375283446712018
