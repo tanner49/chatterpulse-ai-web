@@ -26,7 +26,7 @@ bodyClass: "page-services"
         <div class="col-12 mb-3", style="padding-bottom: 20px;">
           <div class="service service-summary d-flex">
             <div class="service-image mr-3">
-              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}/{{ service.image }}" alt="{{ service.title }}" style="width: 300px; height: 300px; object-fit: cover;"></a>
+              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 300px; height: 300px; object-fit: cover;"></a>
             </div>
             <div class="service-content">
               <h1 class="service-title">
@@ -42,7 +42,7 @@ bodyClass: "page-services"
         <div class="col-12 col-md-6 mb-3">
           <div class="service service-summary d-flex">
             <div class="service-image mr-3">
-              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}/{{ service.image }}" alt="{{ service.title }}" style="width: 350px; height: 350px; object-fit: cover; display: inline-block;"></a>
+              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 350px; height: 350px; object-fit: cover; display: inline-block;"></a>
             </div>
             <div class="service-content">
               <h2 class="service-title">
