@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 728c91ff-12d8-4327-8399-e51dcb396934.png
+image: images/728c91ff-12d8-4327-8399-e51dcb396934.png
 subtitle: The spread of the trans movement and its impact on society
 title: 'The Trans Movement: A Divisive Issue'
 trending_metric: 9.559523809523808

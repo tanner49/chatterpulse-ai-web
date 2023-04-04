@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: da405049-7ef8-461a-ba65-3d605d29f0d0.png
+image: images/da405049-7ef8-461a-ba65-3d605d29f0d0.png
 subtitle: CPA David Peters shares his expertise on Mitch Unfiltered
 title: Tips for Beating Procrastination and Stress
 trending_metric: 4.371031746031747

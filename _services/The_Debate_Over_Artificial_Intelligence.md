@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: e7af80bb-252c-467e-a9d1-d102bb32def2.png
+image: images/e7af80bb-252c-467e-a9d1-d102bb32def2.png
 subtitle: Tech Leaders Call for a Pause on AI Development
 title: The Debate Over Artificial Intelligence
 trending_metric: 2.199546485260771

@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: cc670d46-cac9-4c88-9637-3f2c93734273.png
+image: images/cc670d46-cac9-4c88-9637-3f2c93734273.png
 subtitle: Fans and Contestants React to the Season 27 Finale
 title: 'The Bachelor Finale: Zach Shallcross Chooses Kaity Biggar'
 trending_metric: 3.407738095238095

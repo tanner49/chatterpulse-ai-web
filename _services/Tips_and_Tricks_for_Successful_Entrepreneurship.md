@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 6bfe8d3d-5ee7-41d1-926f-8d8a43658c39.png
+image: images/6bfe8d3d-5ee7-41d1-926f-8d8a43658c39.png
 subtitle: Insights from Top Business Podcasts
 title: Tips and Tricks for Successful Entrepreneurship
 trending_metric: 2.984126984126984

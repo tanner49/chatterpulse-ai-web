@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 817609d2-8266-44f2-ad49-8f1abc8cff2c.png
+image: images/817609d2-8266-44f2-ad49-8f1abc8cff2c.png
 subtitle: Trump prepares for arraignment in New York City
 title: Former President Trump Indicted on Multiple Charges
 trending_metric: 29.557256235827662

@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 7fd84b00-488c-4f00-b153-003e76e09e64.png
+image: images/7fd84b00-488c-4f00-b153-003e76e09e64.png
 subtitle: Prime Minister Netanyahu's Controversial Plan Sparks Nationwide Outrage
 title: Israel Delays Judicial Reform Amidst Protests
 trending_metric: 7.697619047619047

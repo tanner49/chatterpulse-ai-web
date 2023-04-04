@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 9e596048-95ee-44ec-b49f-7e54782cf03d.png
+image: images/9e596048-95ee-44ec-b49f-7e54782cf03d.png
 subtitle: Insights from Various Podcasts
 title: The Importance of Self-Care and Overcoming Adversity
 trending_metric: 6.515873015873017

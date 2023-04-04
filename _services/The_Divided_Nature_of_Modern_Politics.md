@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: e2bd33cd-4d41-4b94-8097-e3a27567c8f8.png
+image: images/e2bd33cd-4d41-4b94-8097-e3a27567c8f8.png
 subtitle: How Envy and Tribalism are Affecting Our Politics
 title: The Divided Nature of Modern Politics
 trending_metric: 3.857142857142857

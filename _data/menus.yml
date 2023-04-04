@@ -1,9 +1,9 @@
 main:
-  - name: "Home"
+  #- name: "Home"
+  #  url: "/"
+  #  weight: 1
+  - name: "ChatterPulse News"
     url: "/"
-    weight: 1
-  - name: "ChatterNews"
-    url: "/news/"
     weight: 2
   - name: "About"
     url: "/about/"
@@ -13,7 +13,7 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "ChatterPulse News"
     url: "/"
     weight: 1
   - name: "Contact"

@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 6df2003b-4ec3-4cf4-b4d1-2b15ea6b287f.png
+image: images/6df2003b-4ec3-4cf4-b4d1-2b15ea6b287f.png
 subtitle: ESPN, NBC Sports, and Barstool Sports provide previews and predictions for
   the games
 title: 'NCAA Final Four: Women''s and Men''s Teams Compete for National Championship'

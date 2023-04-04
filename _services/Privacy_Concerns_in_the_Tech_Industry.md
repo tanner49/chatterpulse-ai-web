@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 01ad5ece-1bfa-497f-8c0f-5c2e5348bd61.png
+image: images/01ad5ece-1bfa-497f-8c0f-5c2e5348bd61.png
 subtitle: The Importance of Protecting Personal Information
 title: Privacy Concerns in the Tech Industry
 trending_metric: 3.1884920634920633

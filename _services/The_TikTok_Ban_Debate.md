@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: c7e83af6-a47b-40d2-9b0c-6ea095086dac.png
+image: images/c7e83af6-a47b-40d2-9b0c-6ea095086dac.png
 subtitle: Congress, influencers, and TikTok's CEO weigh in on the potential ban of
   the popular social media app
 title: The TikTok Ban Debate

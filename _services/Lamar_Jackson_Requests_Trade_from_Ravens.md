@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: d128b1cc-84d5-464a-8d17-8592b2a8598f.png
+image: images/d128b1cc-84d5-464a-8d17-8592b2a8598f.png
 subtitle: Former MVP QB wants out of Baltimore
 title: Lamar Jackson Requests Trade from Ravens
 trending_metric: 2.6556122448979593

@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 17225fcf-0d7c-45b7-9eba-bc8c9e3b7a02.png
+image: images/17225fcf-0d7c-45b7-9eba-bc8c9e3b7a02.png
 subtitle: Examining the Latest Developments in the Ongoing Battle Against Opioid Addiction
 title: 'The Opioid Crisis: Overdoses, Narcan, and Organ Transplants'
 trending_metric: 5.665178571428571

@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: a5987189-7c50-47dd-bd15-71c6a34088c9.png
+image: images/a5987189-7c50-47dd-bd15-71c6a34088c9.png
 subtitle: From boogers to toilets, the latest on bathroom etiquette
 title: The Great Bathroom Debate
 trending_metric: 2.0980725623582765

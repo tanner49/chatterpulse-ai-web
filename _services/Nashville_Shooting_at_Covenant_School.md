@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 9d4a903f-f087-4892-920b-2fd0aaf157c7.png
+image: images/9d4a903f-f087-4892-920b-2fd0aaf157c7.png
 subtitle: Tragedy Strikes Again in America
 title: Nashville Shooting at Covenant School
 trending_metric: 38.72108843537415

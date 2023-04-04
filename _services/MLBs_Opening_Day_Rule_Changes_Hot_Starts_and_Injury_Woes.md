@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 8484fd53-2e36-42be-93b9-075a8506f785.png
+image: images/8484fd53-2e36-42be-93b9-075a8506f785.png
 subtitle: A look at the new rules, standout performances, and early injuries
 title: 'MLB''s Opening Day: Rule Changes, Hot Starts, and Injury Woes'
 trending_metric: 8.331349206349206

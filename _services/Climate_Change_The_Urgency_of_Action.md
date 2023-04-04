@@ -1,6 +1,6 @@
 ---
 date: April 03, 2023
-image: 226354c0-a364-4646-9445-02554d947ca8.png
+image: images/226354c0-a364-4646-9445-02554d947ca8.png
 subtitle: The World Needs to Act Now to Avoid the Worst Effects of Climate Change
 title: 'Climate Change: The Urgency of Action'
 trending_metric: 2.394047619047619
