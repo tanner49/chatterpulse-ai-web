@@ -14,29 +14,6 @@ bodyClass: "page-about"
     </div>
 </div>
 
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <h1 style="text-align: center; padding-top: 30px;">What We Offer:</h1>
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
-  </div>
-</div>
-{% endif %}
-
 <div class = "strip">
   <h2 style = "text-align: center; padding-top: 30px;">Contact Us</h2>
   <form name="contact" method="POST" data-netlify="true" style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
@@ -49,12 +26,8 @@ bodyClass: "page-about"
       <input type="email" name="email" style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"/>
     </p>
     <p style="margin-bottom: 10px;">
-      <label style="display: block; margin-bottom: 5px;">Type of Inquiry:</label>
-      <select name="type[]" multiple style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;">
-        <option value="sales / business">Sales/Business</option>
-        <option value="press">Press</option>
-        <option value="other">Other</option>
-      </select>
+      <label style="display: block; margin-bottom: 5px;">Organization:</label>
+      <input type="email" name="email" style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 4px;"/>
     </p>
     <p style="margin-bottom: 10px;">
       <label style="display: block; margin-bottom: 5px;">Message:</label>
