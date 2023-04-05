@@ -23,7 +23,8 @@ bodyClass: "page-services"
     {% assign first_service_shown = false %}
     {% for service in site.services %}
       {% if first_service_shown == false %}
-        <div class="col-12 mb-3", style="padding-bottom: 20px;">
+        <!-- First service for larger screens (md and up) -->
+        <div class="col-12 mb-3 d-none d-md-block" style="padding-bottom: 20px;">
           <div class="service service-summary d-flex">
             <div class="service-image mr-3">
               <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 350px; height: 350px; object-fit: cover;"></a>
@@ -32,6 +33,21 @@ bodyClass: "page-services"
               <h1 class="service-title">
                 <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
               </h1>
+              <h4>{{service.date | date: "%B %d, %Y"}}</h4>
+              <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
+            </div>
+          </div>
+        </div>
+        <!-- First service for small screens (below md) -->
+        <div class="col-12 mb-3 d-md-none">
+          <div class="service service-summary d-flex">
+            <div class="service-image mr-3">
+              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 150px; height: 150px; object-fit: cover; display: inline-block;"></a>
+            </div>
+            <div class="service-content">
+              <h2 class="service-title">
+                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              </h2>
               <h4>{{service.date | date: "%B %d, %Y"}}</h4>
               <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
             </div>
