@@ -1,6 +1,6 @@
 ---
 date: April 05, 2023
-image: images/c79ae205-4f93-43a9-b808-07dd18c5875d.png
+image: images/illustrations/chatter_logo.svg
 subtitle: A high-stakes election with national implications
 title: Wisconsin Supreme Court Race Takes Center Stage
 trending_metric: 4.314285714285714

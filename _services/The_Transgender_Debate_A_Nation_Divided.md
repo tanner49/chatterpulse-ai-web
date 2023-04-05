@@ -1,6 +1,6 @@
 ---
 date: April 05, 2023
-image: images/0d00a056-0504-4ae6-91f2-32613826c853.png
+image: images/illustrations/chatter_logo.svg
 subtitle: Controversial legislation and incidents spark heated discussions on transgender
   rights and mental health
 title: 'The Transgender Debate: A Nation Divided'
