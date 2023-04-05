@@ -1,60 +1,66 @@
 ---
 layout: default
-bodyClass: "page-services"
+bodyClass: "page-service"
 ---
 
-<div class="intro">
-  <div class="container">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {{ content }}
+{% assign service = site.services | where: 'url', page.url | first %}
+
+<!-- Add Open Graph meta tags -->
+{% assign og_image = site.url | append: 'images/' | append: service.image %}
+<meta property="og:title" content="{{ service.title }}">
+<meta property="og:description" content="{{ service.subtitle }}">
+<meta property="og:image" content="{{ og_image }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+<!-- Add custom CSS for mobile screens -->
+<style>
+  @media (max-width: 767px) {
+    .recommended-story-image {
+      width: 100px !important;
+      height: 100px !important;
+    }
+  }
+</style>
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+      <div class="service-header text-center">
+        <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ service.title }}" style="width: 350px; height: 350px; object-fit: cover; display: inline-block;">
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <a href="{{ page.url | relative_url }}"><img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" /></a>
-      </div>
-      {% endif %}
     </div>
   </div>
-</div>
-
-<div class="container pt-6 pb-6">
+  <div class="row justify-content-start mt-4">
+    <div class="col-12 col-md-8">
+      <div class="service service-single">
+        <div class="content">{{content}}</div>
+      </div>
+    </div>
+  </div>
+  {% assign other_services = site.services | where_exp: "item", "item.url != page.url" %}
+  {% assign recommended_stories = other_services | sample: 4 %}
+  
+  <div class="row mt-5">
+    <div class="col-12">
+      <h2 class="text-center mb-4">Recommended Stories</h2>
+    </div>
+  </div>
   <div class="row">
-    {% assign first_service_shown = false %}
-    {% for service in site.services %}
-      {% if first_service_shown == false %}
-        <!-- First service for larger screens (md and up) -->
-        <div class="col-12 mb-3 d-none d-md-block" style="padding-bottom: 20px;">
-          <div class="service service-summary d-flex">
-            <div class="service-image mr-3">
-              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 350px; height: 350px; object-fit: cover;"></a>
-            </div>
-            <div class="service-content">
-              <h1 class="service-title">
-                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-              </h1>
-              <h4>{{service.date | date: "%B %d, %Y"}}</h4>
-              <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
-            </div>
+    {% for service in recommended_stories %}
+      <div class="col-12 mb-3" style="padding-bottom: 20px;">
+        <div class="service service-summary d-flex">
+          <div class="service-image mr-3">
+            <a href="{{ service.url | relative_url }}"><img class="recommended-story-image" src="{{ service.image | relative_url }}" alt="{{ service.title }}" style="width: 300px; height: 300px; object-fit: cover;"></a>
+          </div>
+          <div class="service-content">
+            <h1 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h1>
+            <h4>{{ service.date | date: "%B %d, %Y" }}</h4>
+            <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
-        <!-- First service for small screens (below md) -->
-        <div class="col-12 mb-3 d-md-none">
-          <div class="service service-summary d-flex">
-            <div class="service-image mr-3">
-              <a href="{{ service.url | relative_url }}"><img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" style="width: 150px; height: 150px; object-fit: cover; display: inline-block;"></a>
-            </div>
-            <div class="service-content">
-              <h2 class="service-title">
-                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-              </h2>
-              <h4>{{service.date | date: "%B %d, %Y"}}</h4>
-              <p>{{ service.subtitle | markdownify | strip_html | truncate: 100 }}</p>
-            </div>
-          </div>
-        </div>
-        {% assign first_service_shown = true %}
-      {% else %}
-        <div class="col-12 col-md-6 mb-3">
-          <div class="service service-summary d-flex">
-            <div class="service-image mr-3">
+      </div>
+    {% endfor %}
+  </div>  
+</div>
